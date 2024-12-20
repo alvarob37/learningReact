@@ -1,1 +1,1 @@
-# learningReact
+# react starter course repo
